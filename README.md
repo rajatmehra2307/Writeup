@@ -1,2 +1,2 @@
 # Writeup
-Writeups for CTFs
+This contains writeups for various CTF challenges
